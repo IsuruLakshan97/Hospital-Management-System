@@ -18,11 +18,11 @@
 
 ## Login Details
 
-
 * Login Details for admin : admin/Test@12345
 * Login Details for Patient: rushi@gmail.com/Test@123
 * kavindu@gmail.com / Test@123
 * Login Details for Doctor: test@demo.com/Test@123
+* aruna@gmail.com/12345
 * isuru@gmail.com/Test@123
 
 ## Developers Remarks
