@@ -2,7 +2,7 @@
 
 ## How to run the Hospital Management System (HMS) Project
 
-1. Download the zip file
+1. Clone the repo or download the zip
 
 2. Extract the file and copy hospital folder
 
@@ -16,14 +16,17 @@
 
 7. Run the script http://localhost/hospital (frontend)
 
-Login Details
-Login Details for admin : admin/Test@12345
-Login Details for Patient: rushi@gmail.com/Test@123
-kavindu@gmail.com / Test@123
-Login Details for Doctor: test@demo.com/Test@123
-isuru@gmail.com/Test@123
+## Login Details
 
-Developers Remarks:-
+
+* Login Details for admin : admin/Test@12345
+* Login Details for Patient: rushi@gmail.com/Test@123
+* kavindu@gmail.com / Test@123
+* Login Details for Doctor: test@demo.com/Test@123
+* isuru@gmail.com/Test@123
+
+## Developers Remarks
+
 We had to change the original database plan We had since we enconter some difficulties such as difficulties we faced when connecting php with the previous database. So we have designed ER diagrame from the scratch again. here we attached the modified ER diagramme.
 
 We used phpmyadmin to design the database.
