@@ -1,5 +1,7 @@
 # Hospital Management System
 
+![image](https://user-images.githubusercontent.com/72965997/107337932-fc1e6100-6ae0-11eb-89ac-0b43d88c1b2e.png)
+
 ## How to run the Hospital Management System (HMS) Project
 
 1. Clone the repo or download the zip
